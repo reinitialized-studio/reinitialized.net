@@ -6,6 +6,6 @@ reinitialized.net is the backend empowering Reinitialized Studio and its associa
 
 # What does this project manage?
 As much as it can:
-- (managing bare metal)[https://maas.io]
-- (managing vSphere and deploying virtual machines)[https://terraform.io]
-- (configuring bare metal and virtual machines)[https://ansible.io]
+- [managing bare metal](https://maas.io)
+- [managing vSphere and deploying virtual machines](https://terraform.io)
+- [configuring bare metal and virtual machines](https://ansible.io)
