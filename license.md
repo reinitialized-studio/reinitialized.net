@@ -1,0 +1,2 @@
+This project is copyright 2021 [Reinitialized](https://github.com/Reinitialized), all rights reserved.
+At the discretion of [Reinitialized](https://github.com/Reinitialized), this license can be changed without notice at any time.
